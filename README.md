@@ -4,7 +4,7 @@ Which telecom customers are likely to cancel, why, and is it worth trying to kee
 
 The notebook uses the [IBM Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d) dataset (7,043 customers) and a logistic regression model. It goes from exploring the data to a retention plan with estimated costs and returns.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-user>/churn-prediction/blob/main/churn_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PMuradas/churn-prediction/blob/main/churn_prediction.ipynb)
 
 ![Dashboard](images/dashboard.png)
 
