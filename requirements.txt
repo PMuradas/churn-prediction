@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+plotly
+matplotlib
+jinja2
+joblib
+notebook
